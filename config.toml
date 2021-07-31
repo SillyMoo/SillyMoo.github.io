@@ -1,0 +1,5 @@
+baseURL = "https://www.silly-moo.com/"
+languageCode = "en-us"
+title = "Sillymoo"
+theme = "ananke"
+SectionPagesMenu = "main"
